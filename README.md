@@ -9,4 +9,3 @@ Install requirements :
 Installation: 
 * You only have to de-zip the zip file which you have downloaded to your computer. 
 
-ADD
