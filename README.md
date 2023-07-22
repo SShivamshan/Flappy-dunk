@@ -7,5 +7,5 @@ Install requirements :
 * Once installed you need to install the sound processing libary, to do so: Go to Sketch -> Import Library -> Add library and then type sound this will gives us some libraries to chose from. Install the Sound by Processing Foundation. 
 
 Installation: 
-* You only have to de-zip the zip file which you have downloaded to your computer. 
+* You only have to de-zip the file which you have downloaded to your computer. 
 
